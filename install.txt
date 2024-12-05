@@ -1,0 +1,22 @@
+admin
+
+- npm install
+-npm install bootstrap
+-npm install react-chartjs-2 chart.js
+-npm install mui-datatables
+-npm install @emotion/react @emotion/styled
+-npm install mui-datatables
+-npm install react-hook-form yup @hookform/resolvers --legacy-peer-deps
+-npm install formik
+-npm install @hookform/resolvers
+-npm install yup
+
+backend 
+-npm install multer
+-npm install nodemailer
+
+frontend
+-npm install react-hook-form
+-npm install yup
+-npm install @hookform/resolvers
+-npm install react-hook-form yup @hookform/resolvers --legacy-peer-deps
